@@ -1,0 +1,36 @@
+/* [project]/styles/Home.module.css [client] (css) */
+.Home-module__g21JLG__container {
+  box-sizing: border-box;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.Home-module__g21JLG__title {
+  text-align: center;
+  color: #111;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.Home-module__g21JLG__noQuestions {
+  text-align: center;
+  color: #666;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
+
+.Home-module__g21JLG__list {
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  display: grid;
+}
+
+@media (width >= 600px) {
+  .Home-module__g21JLG__list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/*# sourceMappingURL=styles_Home_module_css_2bef753f._.single.css.map*/
