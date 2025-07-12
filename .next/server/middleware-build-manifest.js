@@ -1,0 +1,58 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/": [
+      "static/chunks/node_modules_next_85a7fad4._.js",
+      "static/chunks/node_modules_react-dom_82bb97c6._.js",
+      "static/chunks/node_modules_@firebase_firestore_dist_index_esm2017_06c08cb5.js",
+      "static/chunks/node_modules_@firebase_auth_dist_esm2017_03e34138._.js",
+      "static/chunks/node_modules_cf2405b0._.js",
+      "static/chunks/[root-of-the-server]__80b5f733._.js",
+      "static/chunks/styles_41d24a8f._.css",
+      "static/chunks/pages_index_5771e187._.js",
+      "static/chunks/pages_index_6627d68c._.js"
+    ],
+    "/_app": [
+      "static/chunks/node_modules_next_dist_756b85fa._.js",
+      "static/chunks/node_modules_react-dom_82bb97c6._.js",
+      "static/chunks/node_modules_@firebase_auth_dist_esm2017_03e34138._.js",
+      "static/chunks/node_modules_@firebase_firestore_dist_index_esm2017_06c08cb5.js",
+      "static/chunks/node_modules_be61f2fa._.js",
+      "static/chunks/[root-of-the-server]__9804a02e._.js",
+      "static/chunks/pages__app_5771e187._.js",
+      "static/chunks/pages__app_5e06382b._.js"
+    ],
+    "/ask": [
+      "static/chunks/node_modules_next_ba77cfea._.js",
+      "static/chunks/node_modules_react-dom_82bb97c6._.js",
+      "static/chunks/node_modules_@firebase_auth_dist_esm2017_03e34138._.js",
+      "static/chunks/node_modules_@firebase_firestore_dist_index_esm2017_06c08cb5.js",
+      "static/chunks/node_modules_be61f2fa._.js",
+      "static/chunks/[root-of-the-server]__fc254c12._.js",
+      "static/chunks/styles_Ask_module_abc36e32.css",
+      "static/chunks/pages_ask_5771e187._.js",
+      "static/chunks/pages_ask_8d2f71c9._.js"
+    ],
+    "/question/[id]": [
+      "static/chunks/node_modules_next_9e036572._.js",
+      "static/chunks/node_modules_react-dom_82bb97c6._.js",
+      "static/chunks/node_modules_@firebase_firestore_dist_index_esm2017_06c08cb5.js",
+      "static/chunks/node_modules_@firebase_auth_dist_esm2017_03e34138._.js",
+      "static/chunks/node_modules_cf2405b0._.js",
+      "static/chunks/[root-of-the-server]__84e5f2da._.js",
+      "static/chunks/styles_QuestionDetail_module_2b0143c7.css",
+      "static/chunks/pages_question_[id]_5771e187.js",
+      "static/chunks/pages_question_[id]_53e67189.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];
