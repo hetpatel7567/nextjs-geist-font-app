@@ -1,0 +1,69 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.description {
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.tags {
+  margin-bottom: 1rem;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #e1e1e1;
+  color: #333;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.addQuestionButton {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.commentsList {
+  margin-bottom: 1rem;
+}
+
+.comment {
+  border-bottom: 1px solid #ddd;
+  padding: 0.5rem 0;
+}
+
+.commentForm {
+  margin-top: 1rem;
+}
+
+.quill {
+  height: 150px;
+  margin-bottom: 0.5rem;
+}
+
+.button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 1rem;
+}
