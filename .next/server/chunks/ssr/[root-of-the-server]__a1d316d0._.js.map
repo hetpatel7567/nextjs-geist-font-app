@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":["file:///project/sandbox/user-workspace/pages/_document.js"],"sourcesContent":["import Document, { Html, Head, Main, NextScript } from 'next/document';\n\nclass MyDocument extends Document {\n  render() {\n    return (\n      <Html>\n        <Head />\n        <body>\n          <Main />\n          <NextScript />\n        </body>\n      </Html>\n    );\n  }\n}\n\nexport default MyDocument;\n"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,mBAAmB,yHAAA,CAAA,UAAQ;IAC/B,SAAS;QACP,qBACE,qKAAC,yHAAA,CAAA,OAAI;;8BACH,qKAAC,yHAAA,CAAA,OAAI;;;;;8BACL,qKAAC;;sCACC,qKAAC,yHAAA,CAAA,OAAI;;;;;sCACL,qKAAC,yHAAA,CAAA,aAAU;;;;;;;;;;;;;;;;;IAInB;AACF;uCAEe","debugId":null}}]
+}
